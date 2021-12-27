@@ -13,3 +13,5 @@ Jemuran Otomatis dengan Arduino dan Espressif ESP8266
 
 Ringkasan Alat : alat ini mendeteksi air dan cuaca mendung dengan beberapa module sensor (raindrop sensor, LDR sensor, ultrasonic sensor) dan digerakan pada atap
 pakaian jatuh dengan sensor ultrasonic ditangkap maka buzzer berbunyi, dan juga dikirimkan notifikasi ke Telegram melalui bot,
+
+Refrensi : https://youtu.be/WpHqq8yspFM
