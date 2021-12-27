@@ -6,7 +6,7 @@ Kelompok 5
 Anggota : 
 - Ezra Kornel Arthur 118140171
 - Romantika Banjarnahor 118140045
-- Nisrina Maharani 118140
+- Nisrina Maharani 11814025
 - Juni Simamora 118140047
 
 Jemuran Otomatis dengan Arduino dan Espressif ESP8266 
